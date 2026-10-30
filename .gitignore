@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+~*.twbr
+
+# Leftovers from an earlier version of the project (not part of the final work)
+reports/
+data/processed/
+src/rent_ml.py
+data/raw/rnal_trimmed.csv

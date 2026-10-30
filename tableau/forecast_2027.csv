@@ -1,0 +1,229 @@
+municipality_code,municipality,region_code,area,rent_2026q2,population,region_name,forecast_rent_2027q2,forecast_growth_pct,vs_portugal_pp,rank
+0505,Idanha-a-Nova,195,Rest of Portugal,3.21,8360,Beira Baixa,3.91,21.9,11.1,1
+0409,Torre de Moncorvo,11D,Rest of Portugal,3.13,6507,Douro,3.81,21.7,10.9,2
+0910,Pinhel,196,Rest of Portugal,2.94,8040,Beiras e Serra da Estrela,3.51,19.4,8.6,3
+1314,Santo Tirso,11A,Porto metro,5.88,69810,Área Metropolitana do Porto,6.93,17.8,7.1,4
+0703,Borba,1C4,Rest of Portugal,3.03,6542,Alentejo Central,3.56,17.4,6.6,5
+0104,Arouca,11A,Porto metro,5.28,21459,Área Metropolitana do Porto,6.19,17.2,6.5,6
+0113,Oliveira de Azeméis,11A,Porto metro,5.81,70027,Área Metropolitana do Porto,6.77,16.6,5.8,7
+0601,Arganil,192,Rest of Portugal,4.53,11437,Região de Coimbra,5.27,16.3,5.5,8
+0213,Serpa,1C2,Rest of Portugal,4.35,14428,Baixo Alentejo,5.04,15.8,5.1,9
+1112,Sobral de Monte Agraço,1D1,Rest of Portugal,7.1,11858,Oeste,8.22,15.7,5.0,10
+0812,São Brás de Alportel,150,Rest of Portugal,6.93,12305,Algarve,8.02,15.7,5.0,11
+0408,Mogadouro,11E,Rest of Portugal,2.92,8048,Terras de Trás-os-Montes,3.37,15.5,4.7,12
+1210,Marvão,1C3,Rest of Portugal,2.92,2908,Alto Alentejo,3.36,15.2,4.4,13
+1204,Campo Maior,1C3,Rest of Portugal,3.27,8264,Alto Alentejo,3.76,15.1,4.4,14
+0211,Odemira,1C1,Rest of Portugal,6.84,44043,Alentejo Litoral,7.86,14.9,4.1,15
+0616,Tábua,192,Rest of Portugal,4.56,11670,Região de Coimbra,5.24,14.9,4.2,16
+1810,Oliveira de Frades,194,Rest of Portugal,4.77,10502,Viseu Dão Lafões,5.47,14.7,3.9,17
+0119,Vale de Cambra,11A,Porto metro,5.84,22066,Área Metropolitana do Porto,6.69,14.6,3.9,18
+0704,Estremoz,1C4,Rest of Portugal,4.78,12858,Alentejo Central,5.45,14.1,3.4,19
+1705,Mondim de Basto,119,Rest of Portugal,3.85,6252,Ave,4.39,14.1,3.3,20
+0914,Vila Nova de Foz Côa,11D,Rest of Portugal,3.01,5812,Douro,3.43,14.0,3.3,21
+1415,Salvaterra de Magos,1D3,Rest of Portugal,5.98,23952,Lezíria do Tejo,6.82,14.0,3.2,22
+1202,Arronches,1C3,Rest of Portugal,3.54,2841,Alto Alentejo,4.03,13.8,3.1,23
+0710,Redondo,1C4,Rest of Portugal,4.28,6431,Alentejo Central,4.87,13.7,3.0,24
+1402,Alcanena,1D2,Rest of Portugal,5.0,13313,Médio Tejo,5.68,13.7,2.9,25
+1414,Rio Maior,1D3,Rest of Portugal,5.9,25412,Lezíria do Tejo,6.7,13.6,2.9,26
+0305,Celorico de Basto,11C,Rest of Portugal,3.75,16260,Tâmega e Sousa,4.26,13.6,2.9,27
+1001,Alcobaça,1D1,Rest of Portugal,7.0,60881,Oeste,7.93,13.3,2.6,28
+1814,Santa Comba Dão,194,Rest of Portugal,4.93,11140,Viseu Dão Lafões,5.58,13.2,2.5,29
+1804,Cinfães,11C,Rest of Portugal,4.24,17485,Tâmega e Sousa,4.8,13.1,2.4,30
+1407,Chamusca,1D3,Rest of Portugal,4.03,8673,Lezíria do Tejo,4.55,13.0,2.3,31
+1802,Carregal do Sal,194,Rest of Portugal,4.62,9597,Viseu Dão Lafões,5.22,12.9,2.2,32
+0309,Póvoa de Lanhoso,119,Rest of Portugal,5.0,22746,Ave,5.64,12.8,2.1,33
+1002,Alvaiázere,193,Rest of Portugal,4.51,6413,Região de Leiria,5.08,12.7,2.0,34
+1008,Figueiró dos Vinhos,193,Rest of Portugal,4.51,5421,Região de Leiria,5.08,12.7,1.9,35
+0103,Anadia,191,Rest of Portugal,5.96,29259,Região de Aveiro,6.71,12.6,1.9,36
+0108,Estarreja,191,Rest of Portugal,6.11,27746,Região de Aveiro,6.88,12.6,1.9,37
+1310,Paredes,11A,Porto metro,5.84,88858,Área Metropolitana do Porto,6.56,12.4,1.7,38
+1102,Arruda dos Vinhos,1D1,Rest of Portugal,7.87,16018,Oeste,8.84,12.3,1.6,39
+1305,Lousada,11C,Rest of Portugal,4.86,50476,Tâmega e Sousa,5.46,12.3,1.5,40
+1309,Paços de Ferreira,11C,Rest of Portugal,5.54,57467,Tâmega e Sousa,6.22,12.3,1.6,41
+0111,Mealhada,192,Rest of Portugal,5.35,19948,Região de Coimbra,6.0,12.2,1.5,42
+0607,Lousã,192,Rest of Portugal,5.48,18143,Região de Coimbra,6.15,12.2,1.4,43
+1607,Ponte de Lima,111,Rest of Portugal,6.14,42933,Alto Minho,6.88,12.1,1.3,44
+0617,Vila Nova de Poiares,192,Rest of Portugal,4.9,7507,Região de Coimbra,5.49,12.0,1.2,45
+1014,Peniche,1D1,Rest of Portugal,7.96,30262,Oeste,8.92,12.0,1.3,46
+1419,Torres Novas,1D2,Rest of Portugal,6.66,36208,Médio Tejo,7.46,12.0,1.3,47
+1403,Almeirim,1D3,Rest of Portugal,6.99,24167,Lezíria do Tejo,7.83,12.0,1.3,48
+1411,Ferreira do Zêzere,1D2,Rest of Portugal,5.22,8113,Médio Tejo,5.85,12.0,1.3,49
+1608,Valença,111,Rest of Portugal,5.65,15699,Alto Minho,6.33,12.0,1.3,50
+1004,Batalha,193,Rest of Portugal,6.48,17040,Região de Leiria,7.26,12.0,1.3,51
+1109,Mafra,1A0,Lisbon metro,10.97,96146,Grande Lisboa,12.29,12.0,1.3,52
+0118,Vagos,191,Rest of Portugal,6.34,25524,Região de Aveiro,7.1,12.0,1.3,53
+0609,Miranda do Corvo,192,Rest of Portugal,6.4,12308,Região de Coimbra,7.17,12.0,1.3,54
+0810,Olhão,150,Rest of Portugal,8.75,48826,Algarve,9.8,12.0,1.3,55
+0509,Sertã,195,Rest of Portugal,4.5,15081,Beira Baixa,5.04,12.0,1.3,56
+1213,Ponte de Sor,1C3,Rest of Portugal,5.22,15726,Alto Alentejo,5.84,11.8,1.1,57
+0705,Évora,1C4,Rest of Portugal,8.72,58567,Alentejo Central,9.75,11.8,1.1,58
+1108,Lourinhã,1D1,Rest of Portugal,7.39,30056,Oeste,8.25,11.7,1.0,59
+0912,Seia,196,Rest of Portugal,4.13,21597,Beiras e Serra da Estrela,4.61,11.7,0.9,60
+1507,Montijo,1B0,Lisbon metro,10.19,68064,Península de Setúbal,11.38,11.7,0.9,61
+1823,Viseu,194,Rest of Portugal,6.83,109166,Viseu Dão Lafões,7.62,11.6,0.9,62
+0504,Fundão,196,Rest of Portugal,4.86,27754,Beiras e Serra da Estrela,5.42,11.6,0.9,63
+1410,Entroncamento,1D2,Rest of Portugal,7.28,24743,Médio Tejo,8.13,11.6,0.9,64
+0603,Coimbra,192,Rest of Portugal,9.44,156359,Região de Coimbra,10.53,11.5,0.8,65
+0302,Barcelos,112,Rest of Portugal,6.59,122487,Cávado,7.35,11.5,0.8,66
+1816,São Pedro do Sul,194,Rest of Portugal,6.18,15867,Viseu Dão Lafões,6.89,11.5,0.7,67
+0206,Castro Verde,1C2,Rest of Portugal,5.63,7096,Baixo Alentejo,6.28,11.5,0.8,68
+1703,Chaves,11B,Rest of Portugal,5.41,38014,Alto Tâmega e Barroso,6.03,11.4,0.7,69
+1506,Moita,1B0,Lisbon metro,10.46,78541,Península de Setúbal,11.65,11.4,0.7,70
+1708,Peso da Régua,11D,Rest of Portugal,4.76,14421,Douro,5.3,11.4,0.7,71
+0105,Aveiro,191,Rest of Portugal,9.75,91397,Região de Aveiro,10.85,11.3,0.5,72
+1821,Tondela,194,Rest of Portugal,5.84,26912,Viseu Dão Lafões,6.5,11.2,0.5,73
+1505,Grândola,1C1,Rest of Portugal,11.13,15319,Alentejo Litoral,12.37,11.2,0.4,74
+0811,Portimão,150,Rest of Portugal,11.7,78125,Algarve,13.01,11.2,0.5,75
+1609,Viana do Castelo,111,Rest of Portugal,7.8,92860,Alto Minho,8.66,11.1,0.3,76
+1101,Alenquer,1D1,Rest of Portugal,8.79,50718,Oeste,9.76,11.0,0.3,77
+1010,Marinha Grande,193,Rest of Portugal,6.44,45511,Região de Leiria,7.15,11.0,0.3,78
+1311,Penafiel,11C,Rest of Portugal,5.74,71719,Tâmega e Sousa,6.37,11.0,0.2,79
+1601,Arcos de Valdevez,111,Rest of Portugal,5.29,20450,Alto Minho,5.87,11.0,0.2,80
+0410,Vila Flor,11E,Rest of Portugal,2.72,5773,Terras de Trás-os-Montes,3.02,11.0,0.2,81
+0809,Monchique,150,Rest of Portugal,7.41,5611,Algarve,8.23,11.0,0.3,82
+0314,Vizela,119,Rest of Portugal,5.51,25437,Ave,6.12,11.0,0.3,83
+0503,Covilhã,196,Rest of Portugal,6.23,51045,Beiras e Serra da Estrela,6.92,11.0,0.3,84
+0816,Vila Real de Santo António,150,Rest of Portugal,9.92,22349,Algarve,11.0,10.9,0.2,85
+0114,Oliveira do Bairro,191,Rest of Portugal,6.13,25698,Região de Aveiro,6.8,10.9,0.2,86
+0101,Águeda,191,Rest of Portugal,6.26,50635,Região de Aveiro,6.94,10.9,0.2,87
+0110,Ílhavo,191,Rest of Portugal,8.4,43297,Região de Aveiro,9.32,10.9,0.2,88
+0205,Beja,1C2,Rest of Portugal,6.8,39627,Baixo Alentejo,7.54,10.9,0.2,89
+0808,Loulé,150,Rest of Portugal,12.33,94447,Algarve,13.67,10.9,0.1,90
+1317,Vila Nova de Gaia,11A,Porto metro,10.85,323202,Área Metropolitana do Porto,12.03,10.9,0.2,91
+1308,Matosinhos,11A,Porto metro,12.48,181930,Área Metropolitana do Porto,13.84,10.9,0.2,92
+1502,Alcochete,1B0,Lisbon metro,10.68,20407,Península de Setúbal,11.84,10.9,0.1,93
+1315,Valongo,11A,Porto metro,8.59,98930,Área Metropolitana do Porto,9.52,10.9,0.1,94
+1509,Santiago do Cacém,1C1,Rest of Portugal,9.89,30226,Alentejo Litoral,10.97,10.9,0.2,95
+1405,Benavente,1D3,Rest of Portugal,8.05,33923,Lezíria do Tejo,8.93,10.9,0.1,96
+1604,Monção,111,Rest of Portugal,6.67,18230,Alto Minho,7.39,10.8,0.0,97
+1806,Mangualde,194,Rest of Portugal,4.92,19479,Viseu Dão Lafões,5.45,10.8,0.0,98
+1401,Abrantes,1D2,Rest of Portugal,5.91,36106,Médio Tejo,6.55,10.8,0.0,99
+1003,Ansião,193,Rest of Portugal,5.0,12251,Região de Leiria,5.54,10.8,0.1,100
+1512,Setúbal,1B0,Lisbon metro,11.2,141266,Península de Setúbal,12.4,10.7,-0.0,101
+1501,Alcácer do Sal,1C1,Rest of Portugal,7.81,11961,Alentejo Litoral,8.65,10.7,-0.0,102
+1510,Seixal,1B0,Lisbon metro,11.44,198254,Península de Setúbal,12.67,10.7,0.0,103
+0407,Mirandela,11E,Rest of Portugal,4.16,21761,Terras de Trás-os-Montes,4.6,10.7,-0.1,104
+0815,Vila do Bispo,150,Rest of Portugal,9.36,7078,Algarve,10.36,10.7,-0.0,105
+0502,Castelo Branco,195,Rest of Portugal,5.32,58197,Beira Baixa,5.89,10.7,-0.0,106
+0605,Figueira da Foz,192,Rest of Portugal,8.2,65852,Região de Coimbra,9.08,10.7,-0.0,107
+0303,Braga,112,Rest of Portugal,8.68,212635,Cávado,9.61,10.7,-0.1,108
+0107,Espinho,11A,Porto metro,10.03,32455,Área Metropolitana do Porto,11.11,10.7,0.0,109
+0306,Esposende,112,Rest of Portugal,7.78,39069,Cávado,8.61,10.7,-0.0,110
+1011,Nazaré,1D1,Rest of Portugal,9.05,17067,Oeste,10.02,10.7,-0.0,111
+1416,Santarém,1D3,Rest of Portugal,7.71,69392,Lezíria do Tejo,8.53,10.7,-0.0,112
+1306,Maia,11A,Porto metro,9.85,142129,Área Metropolitana do Porto,10.91,10.7,-0.0,113
+1113,Torres Vedras,1D1,Rest of Portugal,8.89,94886,Oeste,9.84,10.7,-0.0,114
+1009,Leiria,193,Rest of Portugal,7.97,145861,Região de Leiria,8.82,10.7,-0.1,115
+1511,Sesimbra,1B0,Lisbon metro,10.19,59440,Península de Setúbal,11.27,10.6,-0.2,116
+0109,Santa Maria da Feira,11A,Porto metro,6.75,142676,Área Metropolitana do Porto,7.47,10.6,-0.1,117
+0117,Sever do Vouga,191,Rest of Portugal,4.61,11817,Região de Aveiro,5.1,10.6,-0.1,118
+0311,Vieira do Minho,119,Rest of Portugal,5.7,11657,Ave,6.3,10.6,-0.2,119
+1508,Palmela,1B0,Lisbon metro,9.94,77044,Península de Setúbal,10.99,10.6,-0.2,120
+1005,Bombarral,1D1,Rest of Portugal,6.91,14366,Oeste,7.64,10.6,-0.2,121
+0911,Sabugal,196,Rest of Portugal,3.29,9368,Beiras e Serra da Estrela,3.64,10.6,-0.1,122
+1303,Felgueiras,11C,Rest of Portugal,4.37,57432,Tâmega e Sousa,4.83,10.6,-0.2,123
+1406,Cartaxo,1D3,Rest of Portugal,6.45,25413,Lezíria do Tejo,7.13,10.5,-0.2,124
+1316,Vila do Conde,11A,Porto metro,8.67,86245,Área Metropolitana do Porto,9.58,10.5,-0.2,125
+1116,Odivelas,1A0,Lisbon metro,12.9,185736,Grande Lisboa,14.25,10.5,-0.2,126
+1114,Vila Franca de Xira,1A0,Lisbon metro,11.03,152007,Grande Lisboa,12.18,10.5,-0.3,127
+1318,Trofa,11A,Porto metro,7.59,41512,Área Metropolitana do Porto,8.39,10.5,-0.2,128
+1610,Vila Nova de Cerveira,111,Rest of Portugal,4.98,10051,Alto Minho,5.5,10.5,-0.2,129
+1107,Loures,1A0,Lisbon metro,12.15,236988,Grande Lisboa,13.42,10.5,-0.3,130
+1111,Sintra,1A0,Lisbon metro,11.41,449956,Grande Lisboa,12.61,10.5,-0.2,131
+0307,Fafe,119,Rest of Portugal,4.84,50392,Ave,5.35,10.5,-0.2,132
+0301,Amares,112,Rest of Portugal,6.06,19739,Cávado,6.69,10.5,-0.3,133
+1301,Amarante,11C,Rest of Portugal,4.84,52669,Tâmega e Sousa,5.34,10.4,-0.4,134
+1104,Cadaval,1D1,Rest of Portugal,6.26,14280,Oeste,6.91,10.4,-0.3,135
+1313,Póvoa de Varzim,11A,Porto metro,9.09,72364,Área Metropolitana do Porto,10.03,10.4,-0.4,136
+0706,Montemor-o-Novo,1C4,Rest of Portugal,5.65,16616,Alentejo Central,6.24,10.4,-0.4,137
+0712,Vendas Novas,1C4,Rest of Portugal,7.07,12860,Alentejo Central,7.8,10.4,-0.3,138
+1304,Gondomar,11A,Porto metro,9.03,170597,Área Metropolitana do Porto,9.97,10.4,-0.3,139
+0610,Montemor-o-Velho,192,Rest of Portugal,6.45,25301,Região de Coimbra,7.12,10.4,-0.3,140
+0312,Vila Nova de Famalicão,119,Rest of Portugal,6.9,143801,Ave,7.62,10.4,-0.4,141
+0313,Vila Verde,112,Rest of Portugal,6.01,49649,Cávado,6.63,10.4,-0.4,142
+0805,Faro,150,Rest of Portugal,10.29,80256,Algarve,11.36,10.4,-0.4,143
+0814,Tavira,150,Rest of Portugal,11.46,33006,Algarve,12.65,10.4,-0.4,144
+1016,Porto de Mós,193,Rest of Portugal,5.63,25057,Região de Leiria,6.21,10.4,-0.4,145
+0907,Guarda,196,Rest of Portugal,5.26,40687,Beiras e Serra da Estrela,5.8,10.3,-0.5,146
+0402,Bragança,11E,Rest of Portugal,5.0,38309,Terras de Trás-os-Montes,5.51,10.3,-0.5,147
+0115,Ovar,191,Rest of Portugal,7.5,58091,Região de Aveiro,8.27,10.3,-0.5,148
+1421,Ourém,1D2,Rest of Portugal,6.9,48834,Médio Tejo,7.61,10.3,-0.4,149
+1504,Barreiro,1B0,Lisbon metro,11.72,91766,Península de Setúbal,12.93,10.3,-0.4,150
+1015,Pombal,193,Rest of Portugal,5.75,54992,Região de Leiria,6.34,10.3,-0.4,151
+1006,Caldas da Rainha,1D1,Rest of Portugal,8.42,58983,Oeste,9.29,10.3,-0.4,152
+1418,Tomar,1D2,Rest of Portugal,7.22,37971,Médio Tejo,7.96,10.3,-0.5,153
+1807,Moimenta da Beira,11D,Rest of Portugal,3.61,9893,Douro,3.98,10.3,-0.4,154
+1602,Caminha,111,Rest of Portugal,6.67,17173,Alto Minho,7.36,10.3,-0.5,155
+0112,Murtosa,191,Rest of Portugal,6.24,10393,Região de Aveiro,6.88,10.2,-0.6,156
+1302,Baião,11C,Rest of Portugal,4.26,16972,Tâmega e Sousa,4.69,10.2,-0.6,157
+1307,Marco de Canaveses,11C,Rest of Portugal,4.88,50838,Tâmega e Sousa,5.38,10.2,-0.5,158
+0807,Lagos,150,Rest of Portugal,12.77,40729,Algarve,14.08,10.2,-0.5,159
+0611,Oliveira do Hospital,192,Rest of Portugal,4.56,20047,Região de Coimbra,5.02,10.2,-0.5,160
+0116,São João da Madeira,11A,Porto metro,7.3,23991,Área Metropolitana do Porto,8.04,10.1,-0.6,161
+0106,Castelo de Paiva,11C,Rest of Portugal,4.2,15875,Tâmega e Sousa,4.62,10.1,-0.6,162
+0602,Cantanhede,192,Rest of Portugal,6.0,35779,Região de Coimbra,6.6,10.1,-0.7,163
+0806,Lagoa,150,Rest of Portugal,9.93,28548,Algarve,10.94,10.1,-0.6,164
+1115,Amadora,1A0,Lisbon metro,13.3,205517,Grande Lisboa,14.64,10.1,-0.7,165
+1312,Porto,11A,Porto metro,14.48,273476,Área Metropolitana do Porto,15.94,10.1,-0.7,166
+1103,Azambuja,1D3,Rest of Portugal,7.92,22755,Lezíria do Tejo,8.71,10.0,-0.8,167
+1105,Cascais,1A0,Lisbon metro,16.83,242619,Grande Lisboa,18.52,10.0,-0.7,168
+1207,Elvas,1C3,Rest of Portugal,4.93,21929,Alto Alentejo,5.42,10.0,-0.8,169
+1106,Lisboa,1A0,Lisbon metro,17.43,658236,Grande Lisboa,19.18,10.0,-0.7,170
+1809,Nelas,194,Rest of Portugal,4.91,13941,Viseu Dão Lafões,5.4,10.0,-0.7,171
+1805,Lamego,11D,Rest of Portugal,4.88,24768,Douro,5.37,10.0,-0.7,172
+0102,Albergaria-a-Velha,191,Rest of Portugal,6.78,26362,Região de Aveiro,7.46,10.0,-0.7,173
+0308,Guimarães,119,Rest of Portugal,6.92,165554,Ave,7.61,10.0,-0.8,174
+0608,Mira,192,Rest of Portugal,6.3,12684,Região de Coimbra,6.93,10.0,-0.7,175
+0801,Albufeira,150,Rest of Portugal,12.22,63375,Algarve,13.44,10.0,-0.8,176
+0813,Silves,150,Rest of Portugal,10.19,45884,Algarve,11.21,10.0,-0.7,177
+0604,Condeixa-a-Nova,192,Rest of Portugal,6.54,17703,Região de Coimbra,7.19,10.0,-0.7,178
+1012,Óbidos,1D1,Rest of Portugal,8.67,13912,Oeste,9.54,10.0,-0.7,179
+0614,Penela,192,Rest of Portugal,5.44,5730,Região de Coimbra,5.97,9.8,-0.9,180
+0210,Moura,1C2,Rest of Portugal,4.82,13615,Baixo Alentejo,5.29,9.8,-0.9,181
+0615,Soure,192,Rest of Portugal,5.9,17493,Região de Coimbra,6.47,9.7,-1.0,182
+1503,Almada,1B0,Lisbon metro,13.71,202896,Península de Setúbal,15.04,9.7,-1.0,183
+1110,Oeiras,1A0,Lisbon metro,15.75,188056,Grande Lisboa,17.28,9.7,-1.0,184
+1713,Vila Pouca de Aguiar,11B,Rest of Portugal,4.0,11794,Alto Tâmega e Barroso,4.38,9.6,-1.1,185
+0304,Cabeceiras de Basto,119,Rest of Portugal,4.43,15490,Ave,4.85,9.5,-1.2,186
+1409,Coruche,1D3,Rest of Portugal,6.67,17986,Lezíria do Tejo,7.29,9.4,-1.4,187
+0711,Reguengos de Monsaraz,1C4,Rest of Portugal,5.21,10599,Alentejo Central,5.7,9.4,-1.3,188
+1606,Ponte da Barca,111,Rest of Portugal,4.43,11115,Alto Minho,4.84,9.3,-1.4,189
+0906,Gouveia,196,Rest of Portugal,3.68,11963,Beiras e Serra da Estrela,4.01,8.9,-1.8,190
+0405,Macedo de Cavaleiros,11E,Rest of Portugal,3.75,13846,Terras de Trás-os-Montes,4.08,8.8,-1.9,191
+0804,Castro Marim,150,Rest of Portugal,9.18,7570,Algarve,9.98,8.8,-2.0,192
+1714,Vila Real,11D,Rest of Portugal,6.29,52964,Douro,6.85,8.8,-1.9,193
+1817,Sátão,194,Rest of Portugal,3.76,11295,Viseu Dão Lafões,4.08,8.5,-2.3,194
+0202,Almodôvar,1C2,Rest of Portugal,5.27,7033,Baixo Alentejo,5.72,8.5,-2.2,195
+1412,Golegã,1D3,Rest of Portugal,5.02,5650,Lezíria do Tejo,5.44,8.3,-2.5,196
+1712,Valpaços,11B,Rest of Portugal,3.81,14247,Alto Tâmega e Barroso,4.13,8.3,-2.4,197
+0406,Miranda do Douro,11E,Rest of Portugal,3.5,6065,Terras de Trás-os-Montes,3.79,8.2,-2.5,198
+1808,Mortágua,192,Rest of Portugal,4.48,9185,Região de Coimbra,4.84,8.1,-2.7,199
+0903,Celorico da Beira,196,Rest of Portugal,3.1,6545,Beiras e Serra da Estrela,3.35,8.0,-2.8,200
+0714,Vila Viçosa,1C4,Rest of Portugal,4.44,7368,Alentejo Central,4.8,8.0,-2.7,201
+0208,Ferreira do Alentejo,1C2,Rest of Portugal,5.0,9625,Baixo Alentejo,5.39,7.8,-2.9,202
+1420,Vila Nova da Barquinha,1D2,Rest of Portugal,5.57,7742,Médio Tejo,6.0,7.7,-3.1,203
+1824,Vouzela,194,Rest of Portugal,6.18,9668,Viseu Dão Lafões,6.66,7.7,-3.0,204
+0702,Arraiolos,1C4,Rest of Portugal,5.09,6857,Alentejo Central,5.48,7.7,-3.1,205
+0803,Aljezur,150,Rest of Portugal,8.99,7456,Algarve,9.67,7.6,-3.1,206
+0613,Penacova,192,Rest of Portugal,4.48,13105,Região de Coimbra,4.81,7.3,-3.4,207
+1408,Constância,1D2,Rest of Portugal,5.74,4048,Médio Tejo,6.15,7.2,-3.6,208
+1820,Tarouca,11D,Rest of Portugal,3.25,7448,Douro,3.48,7.1,-3.7,209
+1605,Paredes de Coura,111,Rest of Portugal,4.55,8721,Alto Minho,4.87,7.0,-3.8,210
+0501,Belmonte,196,Rest of Portugal,3.65,6173,Beiras e Serra da Estrela,3.9,7.0,-3.8,211
+1214,Portalegre,1C3,Rest of Portugal,4.96,24025,Alto Alentejo,5.3,6.9,-3.8,212
+0713,Viana do Alentejo,1C4,Rest of Portugal,3.76,5594,Alentejo Central,4.02,6.8,-4.0,213
+1404,Alpiarça,1D3,Rest of Portugal,5.21,7726,Lezíria do Tejo,5.57,6.8,-3.9,214
+1603,Melgaço,111,Rest of Portugal,4.21,7111,Alto Minho,4.49,6.6,-4.1,215
+0201,Aljustrel,1C2,Rest of Portugal,6.94,9319,Baixo Alentejo,7.37,6.2,-4.5,216
+1513,Sines,1C1,Rest of Portugal,15.07,16943,Alentejo Litoral,15.98,6.0,-4.7,217
+0207,Cuba,1C2,Rest of Portugal,3.84,4640,Baixo Alentejo,4.07,5.9,-4.9,218
+0913,Trancoso,196,Rest of Portugal,3.67,8022,Beiras e Serra da Estrela,3.87,5.3,-5.4,219
+1822,Vila Nova de Paiva,194,Rest of Portugal,4.21,4405,Viseu Dão Lafões,4.43,5.3,-5.4,220
+0707,Mora,1C4,Rest of Portugal,4.17,4143,Alentejo Central,4.37,4.8,-5.9,221
+1803,Castro Daire,194,Rest of Portugal,4.78,13400,Viseu Dão Lafões,4.99,4.4,-6.3,222
+1215,Sousel,1C3,Rest of Portugal,3.81,4506,Alto Alentejo,3.95,3.6,-7.1,223
+0508,Proença-a-Nova,195,Rest of Portugal,4.06,6960,Beira Baixa,4.18,2.9,-7.8,224
+0901,Aguiar da Beira,194,Rest of Portugal,4.1,4898,Viseu Dão Lafões,4.17,1.6,-9.1,225
+0510,Vila de Rei,195,Rest of Portugal,4.39,3229,Beira Baixa,4.44,1.1,-9.7,226
+1701,Alijó,11D,Rest of Portugal,3.48,10096,Douro,3.51,0.8,-9.9,227
+1007,Castanheira de Pêra,193,Rest of Portugal,5.0,2747,Região de Leiria,4.97,-0.5,-11.3,228
